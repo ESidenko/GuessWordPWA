@@ -15,5 +15,12 @@
 	],
     "lang": "ru",
     "scope": "/",
-    "service_worker": "service-worker.js"
+    "service_worker": "service-worker.js",
+	"screenshots": [
+		{
+		  "src": "/icon.png",
+		  "type": "image/png",
+		  "sizes": "144x144"
+		}
+	]
 }

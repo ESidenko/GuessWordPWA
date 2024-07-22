@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PWA Блокнот</title>
     <link rel="stylesheet" href="style.css">
+	<link rel="manifest" href="manifest.json">
 </head>
 <body>
     <h1>PWA Блокнот</h1>
@@ -17,6 +18,15 @@
     <ul id="notes"></ul>
 
     <script src="script.js"></script>
-    <script src="service-worker.js"></script>
+	<script>
+    if ("serviceWorker" in navigator) {
+        self.addEventListener("load", async () => {
+            const container = navigator.serviceWorker;
+            if (container.controller === null) {
+                const reg = await container.register("service-worker.js");
+            }
+        });
+    }
+</script>
 </body>
 </html>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="146.16011"
+   height="147.11757"
+   viewBox="0 0 38.671529 38.924857"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="растр.png"
+   inkscape:export-xdpi="17.417143"
+   inkscape:export-ydpi="17.417143"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="22.500507"
+       y="84.257217"
+       width="113.93874"
+       height="42.128609"
+       id="rect6249" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5882">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1"
+         offset="0"
+         id="stop5878" />
+      <stop
+         style="stop-color:#806600;stop-opacity:1"
+         offset="1"
+         id="stop5880" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5882"
+       id="radialGradient5973"
+       cx="18.999763"
+       cy="19.253094"
+       fx="18.999763"
+       fy="19.253094"
+       r="19.335764"
+       gradientTransform="matrix(0.90045673,0.75520918,-0.54059554,0.64456697,12.299435,-7.5056108)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.33599949,0.2093344)">
+    <rect
+       style="opacity:0.728281;fill:url(#radialGradient5973);fill-opacity:1;stroke:#000000;stroke-width:0.671999"
+       id="rect5876"
+       width="37.999527"
+       height="38.252857"
+       x="0"
+       y="0.12666509" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.81944px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';letter-spacing:0.529167px;display:inline;opacity:0.728281;fill:#0000ff;stroke:#000000;stroke-width:1.24215"
+       x="2.9234622"
+       y="9.3915415"
+       id="text6035"
+       transform="scale(1.0584612,0.94476774)"><tspan
+         sodipodi:role="line"
+         id="tspan6033"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#0000ff;stroke-width:1.24216"
+         x="2.9234622"
+         y="9.3915415"
+         dx="0"
+         rotate="0 0 0 0 0 0">Guess</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6247"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:2px;white-space:pre;shape-inside:url(#rect6249);opacity:0.728281;fill:#0000ff;stroke:#000000;stroke-width:2.53984"><tspan
+         x="22.5"
+         y="113.42445"
+         id="tspan6353">Word</tspan></text>
+  </g>
+</svg>

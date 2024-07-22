@@ -1,46 +1,18 @@
 {
-    "name": "PWA Блокнот",
+	"start_url": "./",
+	"name": "PWA Блокнот",
     "short_name": "Блокнот",
-    "start_url": "/",
-    "display": "standalone",
+	"display": "standalone",
     "background_color": "#f0f0f0",
     "theme_color": "#000000",
-    "icons": [
-      {
-        "src": "images/icon-72x72.png",
-        "sizes": "72x72"
-      },
-      {
-        "src": "images/icon-96x96.png",
-        "sizes": "96x96"
-      },
-      {
-        "src": "images/icon-128x128.png",
-        "sizes": "128x128"
-      },
-      {
-        "src": "images/icon-144x144.png",
-        "sizes": "144x144"
-      },
-      {
-        "src": "images/icon-152x152.png",
-        "sizes": "152x152"
-      },
-      {
-        "src": "images/icon-192x192.png",
-        "sizes": "192x192"
-      },
-      {
-        "src": "images/icon-384x384.png",
-        "sizes": "384x384"
-      },
-      {
-        "src": "images/icon-512x512.png",
-        "sizes": "512x512"
-      }
-    ],
+	"icons": [
+		{
+		  "src": "./icon.svg",
+		  "sizes": "144x144",
+		  "type": "image/svg"
+		}
+	],
     "lang": "ru",
     "scope": "/",
     "service_worker": "service-worker.js"
-  }
-  
+}
